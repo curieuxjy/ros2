@@ -1,3 +1,7 @@
 .idea/
 train_data/
 __pycache__/
+build/
+install/
+log/
+LICENSE
